@@ -1,0 +1,15 @@
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\ConsoleEx000\ConsoleEx000\bin\Debug\net8.0\ConsoleEx000.exe
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\ConsoleEx000\ConsoleEx000\bin\Debug\net8.0\ConsoleEx000.deps.json
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\ConsoleEx000\ConsoleEx000\bin\Debug\net8.0\ConsoleEx000.runtimeconfig.json
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\ConsoleEx000\ConsoleEx000\bin\Debug\net8.0\ConsoleEx000.dll
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\ConsoleEx000\ConsoleEx000\bin\Debug\net8.0\ConsoleEx000.pdb
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\ConsoleEx000\ConsoleEx000\obj\Debug\net8.0\ConsoleEx000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\ConsoleEx000\ConsoleEx000\obj\Debug\net8.0\ConsoleEx000.AssemblyInfoInputs.cache
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\ConsoleEx000\ConsoleEx000\obj\Debug\net8.0\ConsoleEx000.AssemblyInfo.cs
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\ConsoleEx000\ConsoleEx000\obj\Debug\net8.0\ConsoleEx000.csproj.CoreCompileInputs.cache
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\ConsoleEx000\ConsoleEx000\obj\Debug\net8.0\ConsoleEx000.sourcelink.json
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\ConsoleEx000\ConsoleEx000\obj\Debug\net8.0\ConsoleEx000.dll
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\ConsoleEx000\ConsoleEx000\obj\Debug\net8.0\refint\ConsoleEx000.dll
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\ConsoleEx000\ConsoleEx000\obj\Debug\net8.0\ConsoleEx000.pdb
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\ConsoleEx000\ConsoleEx000\obj\Debug\net8.0\ConsoleEx000.genruntimeconfig.cache
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\ConsoleEx000\ConsoleEx000\obj\Debug\net8.0\ref\ConsoleEx000.dll

@@ -1,0 +1,10 @@
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\WindowsEx000a\WindowsEx000a\bin\Debug\WindowsEx000a.exe.config
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\WindowsEx000a\WindowsEx000a\bin\Debug\WindowsEx000a.exe
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\WindowsEx000a\WindowsEx000a\bin\Debug\WindowsEx000a.pdb
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\WindowsEx000a\WindowsEx000a\obj\Debug\WindowsEx000a.csproj.AssemblyReference.cache
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\WindowsEx000a\WindowsEx000a\obj\Debug\WindowsEx000a.Form1.resources
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\WindowsEx000a\WindowsEx000a\obj\Debug\WindowsEx000a.Properties.Resources.resources
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\WindowsEx000a\WindowsEx000a\obj\Debug\WindowsEx000a.csproj.GenerateResource.cache
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\WindowsEx000a\WindowsEx000a\obj\Debug\WindowsEx000a.csproj.CoreCompileInputs.cache
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\WindowsEx000a\WindowsEx000a\obj\Debug\WindowsEx000a.exe
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\WindowsEx000a\WindowsEx000a\obj\Debug\WindowsEx000a.pdb
