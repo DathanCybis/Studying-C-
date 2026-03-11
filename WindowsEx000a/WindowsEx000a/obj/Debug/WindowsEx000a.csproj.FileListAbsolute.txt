@@ -8,3 +8,4 @@ C:\Users\Dan-Dell\Documents\Studying\Studying-C#\WindowsEx000a\WindowsEx000a\obj
 C:\Users\Dan-Dell\Documents\Studying\Studying-C#\WindowsEx000a\WindowsEx000a\obj\Debug\WindowsEx000a.csproj.CoreCompileInputs.cache
 C:\Users\Dan-Dell\Documents\Studying\Studying-C#\WindowsEx000a\WindowsEx000a\obj\Debug\WindowsEx000a.exe
 C:\Users\Dan-Dell\Documents\Studying\Studying-C#\WindowsEx000a\WindowsEx000a\obj\Debug\WindowsEx000a.pdb
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\WindowsEx000a\WindowsEx000a\obj\Debug\WindowsEx000a.exe.config
