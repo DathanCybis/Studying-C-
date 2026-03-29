@@ -1,5 +1,7 @@
 <Solution>
-  <Folder Name="/exercicios-facul/" />
+  <Folder Name="/exercicios-facul/">
+    <Project Path="exercicios-facul/ex002/ex002.csproj" />
+  </Folder>
   <Folder Name="/exercicios-facul/ex001/">
     <Project Path="exercicios-facul/ex001/ex001/ex001.csproj" />
   </Folder>

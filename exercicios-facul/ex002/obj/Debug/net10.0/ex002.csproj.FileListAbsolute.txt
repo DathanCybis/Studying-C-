@@ -1,0 +1,15 @@
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex002\bin\Debug\net10.0\ex002.exe
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex002\bin\Debug\net10.0\ex002.deps.json
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex002\bin\Debug\net10.0\ex002.runtimeconfig.json
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex002\bin\Debug\net10.0\ex002.dll
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex002\bin\Debug\net10.0\ex002.pdb
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex002\obj\Debug\net10.0\ex002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex002\obj\Debug\net10.0\ex002.AssemblyInfoInputs.cache
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex002\obj\Debug\net10.0\ex002.AssemblyInfo.cs
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex002\obj\Debug\net10.0\ex002.csproj.CoreCompileInputs.cache
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex002\obj\Debug\net10.0\ex002.sourcelink.json
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex002\obj\Debug\net10.0\ex002.dll
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex002\obj\Debug\net10.0\refint\ex002.dll
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex002\obj\Debug\net10.0\ex002.pdb
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex002\obj\Debug\net10.0\ex002.genruntimeconfig.cache
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex002\obj\Debug\net10.0\ref\ex002.dll
