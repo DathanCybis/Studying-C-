@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/exercicios-facul/" />
+  <Folder Name="/exercicios-facul/ex001/">
+    <Project Path="exercicios-facul/ex001/ex001/ex001.csproj" />
+  </Folder>
+  <Folder Name="/exercicios-facul/ex1/">
+    <Project Path="exercicios-facul/ex1/ConsoleApp1/ConsoleApp1.csproj" />
+  </Folder>
+  <Project Path="ex001/ex001.csproj" />
+</Solution>
