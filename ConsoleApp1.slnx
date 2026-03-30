@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/estudos-pessoais/">
+    <Project Path="estudos-pessoais/POO1/POO1.csproj" />
+  </Folder>
   <Folder Name="/exercicios-facul/">
     <Project Path="exercicios-facul/ex002/ex002.csproj" />
   </Folder>

@@ -1,0 +1,15 @@
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\POO1\bin\Debug\net10.0\POO1.exe
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\POO1\bin\Debug\net10.0\POO1.deps.json
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\POO1\bin\Debug\net10.0\POO1.runtimeconfig.json
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\POO1\bin\Debug\net10.0\POO1.dll
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\POO1\bin\Debug\net10.0\POO1.pdb
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\POO1\obj\Debug\net10.0\POO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\POO1\obj\Debug\net10.0\POO1.AssemblyInfoInputs.cache
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\POO1\obj\Debug\net10.0\POO1.AssemblyInfo.cs
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\POO1\obj\Debug\net10.0\POO1.csproj.CoreCompileInputs.cache
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\POO1\obj\Debug\net10.0\POO1.sourcelink.json
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\POO1\obj\Debug\net10.0\POO1.dll
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\POO1\obj\Debug\net10.0\refint\POO1.dll
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\POO1\obj\Debug\net10.0\POO1.pdb
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\POO1\obj\Debug\net10.0\POO1.genruntimeconfig.cache
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\POO1\obj\Debug\net10.0\ref\POO1.dll
