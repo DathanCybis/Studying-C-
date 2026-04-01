@@ -1,0 +1,15 @@
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\02encapsulamento\bin\Debug\net10.0\02encapsulamento.exe
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\02encapsulamento\bin\Debug\net10.0\02encapsulamento.deps.json
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\02encapsulamento\bin\Debug\net10.0\02encapsulamento.runtimeconfig.json
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\02encapsulamento\bin\Debug\net10.0\02encapsulamento.dll
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\02encapsulamento\bin\Debug\net10.0\02encapsulamento.pdb
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\02encapsulamento\obj\Debug\net10.0\02encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\02encapsulamento\obj\Debug\net10.0\02encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\02encapsulamento\obj\Debug\net10.0\02encapsulamento.AssemblyInfo.cs
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\02encapsulamento\obj\Debug\net10.0\02encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\02encapsulamento\obj\Debug\net10.0\02encapsulamento.sourcelink.json
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\02encapsulamento\obj\Debug\net10.0\02encapsulamento.dll
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\02encapsulamento\obj\Debug\net10.0\refint\02encapsulamento.dll
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\02encapsulamento\obj\Debug\net10.0\02encapsulamento.pdb
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\02encapsulamento\obj\Debug\net10.0\02encapsulamento.genruntimeconfig.cache
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\estudos-pessoais\02encapsulamento\obj\Debug\net10.0\ref\02encapsulamento.dll
