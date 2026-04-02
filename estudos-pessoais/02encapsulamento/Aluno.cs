@@ -4,4 +4,9 @@ class Aluno
     private string? Nome;
     private double Media;
 
+    public string PrintarNome()
+    {
+        return "Nome: ...";
+    }
+
 }
