@@ -1,12 +1,14 @@
 class Aluno
 {
-    // Atributos
-    private string? Nome;
-    private double Media;
-
-    public string PrintarNome()
+    // 1ª maneira
+    private string? _nome;
+    public string? Nome
     {
-        return "Nome: ...";
+        get{ return _nome; }
+        set{ _nome = value; }
     }
+
+    // 2ª maneira
+    public double Media { get; set; }
 
 }
