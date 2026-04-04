@@ -3,7 +3,7 @@ class Pessoa
     // 1º construtor
     public Pessoa()
     {
-        Console.WriteLine("Hello, World!");    
+        Console.WriteLine("Olá, Mundo!");    
     }
 
     // 2º construtor
