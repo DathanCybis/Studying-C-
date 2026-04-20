@@ -7,10 +7,8 @@ class Colaborador : Pessoa
     private double _salario;
 
     // Construtor
-    public Colaborador(string nome, int idade, string cargo, double salario)
-    {
-        Nome = nome;
-        Idade = idade;  
+    public Colaborador(string nome, int idade, string cargo, double salario) : base(nome, idade)
+    {  
         _cargo = cargo;
         _salario = salario;
 
