@@ -1,0 +1,15 @@
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex4aula2\bin\Debug\net10.0\ex4aula2.exe
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex4aula2\bin\Debug\net10.0\ex4aula2.deps.json
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex4aula2\bin\Debug\net10.0\ex4aula2.runtimeconfig.json
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex4aula2\bin\Debug\net10.0\ex4aula2.dll
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex4aula2\bin\Debug\net10.0\ex4aula2.pdb
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex4aula2\obj\Debug\net10.0\ex4aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex4aula2\obj\Debug\net10.0\ex4aula2.AssemblyInfoInputs.cache
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex4aula2\obj\Debug\net10.0\ex4aula2.AssemblyInfo.cs
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex4aula2\obj\Debug\net10.0\ex4aula2.csproj.CoreCompileInputs.cache
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex4aula2\obj\Debug\net10.0\ex4aula2.sourcelink.json
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex4aula2\obj\Debug\net10.0\ex4aula2.dll
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex4aula2\obj\Debug\net10.0\refint\ex4aula2.dll
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex4aula2\obj\Debug\net10.0\ex4aula2.pdb
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex4aula2\obj\Debug\net10.0\ex4aula2.genruntimeconfig.cache
+C:\Users\Dan-Dell\Documents\Studying\Studying-C#\exercicios-facul\ex4aula2\obj\Debug\net10.0\ref\ex4aula2.dll
